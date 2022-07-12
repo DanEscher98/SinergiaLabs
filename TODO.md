@@ -19,3 +19,16 @@
 ### Contactanos
 1. Haz Diagnostico
 2. Formulario
+
+## Ideas
+
+### Inicio
+- Testimonios
+- Partneships
+
+### Nosotros
+1. Fundadores
+2. Historia
+
+### Roadmap
+
